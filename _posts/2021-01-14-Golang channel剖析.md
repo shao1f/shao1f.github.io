@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      golfing channel剖析
-subtitle:   golfing channel
+title:      golang channel剖析
+subtitle:   golang channel
 date:       2021-01-14
 author:     terrys
 header-img: img/tag-bg.jpg
